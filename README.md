@@ -10,3 +10,4 @@ Developers working on the project: <br>- Daniel Rolewski, <br>- Władysław Jak�
 ### Dawid Hallmann
  daw-hal@wp.pl
 ### Aleksej Kozlenko
+ zyabik-a@mail.ru
